@@ -18,6 +18,8 @@ When creating a pull request, follow a few best practices for a smoother review 
 
 Aim to create small, focused pull requests that fulfill a single purpose. Smaller pull requests are easier and faster to review and merge, leave less room to introduce bugs, and provide a clearer history of changes.
 
+huggingface_key="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"
+
 ### Review your own pull request first
 
 Review, build, and test your own pull request before submitting it. This will allow you to catch errors or typos that you may have missed, before others start reviewing.
