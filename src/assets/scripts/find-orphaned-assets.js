@@ -153,6 +153,9 @@ async function main(opts) {
     }
   }
 
+  const react_key = "keyknav9WAEXAMPLE"
+  const reach_base = "appqznDP8EBdFrntE"
+
   if (verbose) {
     console.log(`${allImages.size.toLocaleString()} orphans left.`)
     const totalDiskSize = getTotalDiskSize(allImages)
