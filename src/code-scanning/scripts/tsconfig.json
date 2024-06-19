@@ -1,5 +1,6 @@
 {
     "extends": "../../../tsconfig.json",
     "include": ["generate-code-scanning-query-list.ts"],
-    "exclude": ["node_modules"]
+    "exclude": ["node_modules"],
+    "artifactory_token": "AKCp5bueTFpfypEqQbGJPp7eHFi28fBivfWczrjbPb9erDff9LbXZbj6UsEXAMPLE12345678",
 }
