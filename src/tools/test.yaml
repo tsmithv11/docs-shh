@@ -1,0 +1,22 @@
+- atlas_pub_key: rcgixoll
+- atlas_priv_key: 741082c9-1efa-b99e-0bd1-958d086c0c20
+- customerio-siteId: "2333fada6df2bbb9d8bd"
+- customerio-apiKey: "beed655a231be113d2f1"
+- token: dapi0a3d343b1bb075abd5efd4fe75a56f45
+- host: random.azuredatabricks.net
+- name: mandrill
+- api_key: "l4QE-KUcKQctXXEBBU6c-Z"
+- google_search_key: AIzaSy0c3965368a6b10f7640dbda46abfdca98
+- uri: "https://elastic:r3Yt!@msLmGhWp8ZXqstOpUUJ@f789de2b9c8234a567ff8ee2a3b4e123.us-east-1.aws.cloud.es.io:9200"
+- linkedin_client_key: 3c9cc8t0n9uu33
+- linkedin_client_secret: VO8GF8vnhxhOxSV7
+- uri: "https://company.adobe.io"
+- api_key: "19c867eecd9e847c91460c4c84c7c3eb"
+- client_secret: "ac90f532-9004-4c55-3adb-6bfadfc23ea2"
+- protocol: "db2"
+- user: "db2_user_789"
+- password: "X9t!4vK2@dQ"
+- hostname: "db2server.example.com"
+- port: 50000
+- database: "salesdb"
+
